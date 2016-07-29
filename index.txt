@@ -1,2 +1,3 @@
 ajout la barre de navigation principale
 code css ajouté 
+correction bug
